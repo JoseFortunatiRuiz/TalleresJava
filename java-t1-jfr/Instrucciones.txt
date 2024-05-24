@@ -1,0 +1,16 @@
+El pinball que vas a jugar es un juego interactivo, el gatillo izquierdo funciona con la letra "a" y el gatillo derecho funciona con la letra "l".
+Tendrás 3 segundos para presionar la tecla correspondiente, debes estar atento para que la bola no caiga en el centro.
+
+Este es el mapa en el que vas a jugar:
+
+-------------------
+- o   o    o   o  -
+-   o    o   o    -
+-      o   o      -
+-  \     o        -
+-   \  o      7   -
+-    \     o /    -
+-                 -
+----\         /----
+   --\       /--
+    ----   ----
